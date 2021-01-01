@@ -11,7 +11,7 @@ $ curl -O http://www.java2s.com/Code/JarDownload/simplecaptcha/simplecaptcha-1.2
 Extract SimpleCaptcha:
 
 ```
-$ jar xf simplecaptcha-1.2-jdk1.5.jar
+$ jar xf simplecaptcha-1.2.1.jar.zip
 ```
 
 Create directories for dataSet:
