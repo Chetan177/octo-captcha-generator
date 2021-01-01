@@ -7,11 +7,12 @@ Download [SimpleCaptcha](http://simplecaptcha.sourceforge.net) to the folder:
 ```
 $ curl -O http://www.java2s.com/Code/JarDownload/simplecaptcha/simplecaptcha-1.2.1.jar.zip
 ```
+Extract the zip
 
 Extract SimpleCaptcha:
 
 ```
-$ jar xf simplecaptcha-1.2.1.jar.zip
+$ jar xf simplecaptcha-1.2.1.jar
 ```
 
 Create directories for dataSet:
